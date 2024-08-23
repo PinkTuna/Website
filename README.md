@@ -1,2 +1,2 @@
-# Description
-This project is a landing page of an imaginary web development company
+# Landing Page
+This project is a landing page of an imaginary web development companyg
