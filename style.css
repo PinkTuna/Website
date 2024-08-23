@@ -215,21 +215,17 @@ font: 1em sans-serif;
     margin-right: 5rem;
     color: #faf9f8;
  }
-footer{
+.footer{
     background-color: #1f2937;
     color: #faf9f8;
-    height: 100px;
+    height: 50px;
     display: flex;
+}
+.footer .container{
+    display: flex;
+    gap: 8px;
     justify-content: center;
     align-items: center;
-}
-footer p{
-    margin: 0 6px;
-}
+    
 
-.footer{
-    margin: 0 20rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
